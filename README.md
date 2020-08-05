@@ -1,7 +1,7 @@
 ## Hi, I'm [Harshit!](https://harshit-singh.gitlab.io) 👋
 
-
-<div align="center">
+## Find me on 
+<div>
   
   <a href="https://linkedin.com/in/harshit-singh-29a980115">
     <img  alt="Harshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,8 +13,9 @@
   <a href="https://harshit-singh.gitlab.io">
     <img  alt="Portfolio Website" width="22px" src="https://img.icons8.com/android/100/000000/link.png"/>
   </a>
+</div>
 
-  **Languages and Tools:**  
+  ## Languages and Tools:  
   <div>
     <img height="30" style="margin:5px" src="https://www.php.net/images/logos/new-php-logo.svg">
     <img height="30" style="margin:5px"src="https://cdn.freebiesupply.com/logos/large/2x/laravel-1-logo-png-transparent.png">
@@ -27,6 +28,8 @@
 
 
   </div>
+
+  <br/>
 
   <div style="margin-top:5%">
     <a href="https://github.com/harshit2996">
