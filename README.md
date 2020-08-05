@@ -31,10 +31,10 @@
 
   <br/>
 
-  <div style="margin-top:5%">
+  <!-- <div style="margin-top:5%">
     <a href="https://github.com/harshit2996">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2996&theme=dark&hide_langs_below=1" />
     </a>
-  </div>
+  </div> -->
 </div>
 
