@@ -20,7 +20,6 @@
 <div style="display:flex; justify-content:space-around">
   <a href="https://linkedin.com/in/harshit-singh-29a980115">
     <img style="max-width: 100%;
-    filter: invert(1);
     border-radius: 0.5rem;
     padding: 0.5rem;
     line-height: unset;
@@ -30,7 +29,6 @@
   </a>
   <a href="https://angel.co/u/harshit_singh">
     <img style="max-width: 100%;
-    filter: invert(1);
     border-radius: 0.5rem;
     padding: 0.5rem;
     line-height: unset;
@@ -40,7 +38,6 @@
   </a>
   <a href="https://harshit-singh.gitlab.io">
     <img style="max-width: 100%;
-    filter: invert(1);
     border-radius: 0.5rem;
     padding: 0.5rem;
     line-height: unset;
