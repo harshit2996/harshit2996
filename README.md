@@ -24,6 +24,7 @@
     padding: 0.5rem;
     line-height: unset;
     min-height: unset;
+    filter:invert(1);
     align-content: center;
     background-color: white !important;" alt="Harshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -34,11 +35,13 @@
     line-height: unset;
     min-height: unset;
     align-content: center;
+    filter:invert(1);
     background-color: white !important;" alt="Harshit's AngelList Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />
   </a>
   <a href="https://harshit-singh.gitlab.io">
     <img style="max-width: 100%;
     border-radius: 0.5rem;
+    filter:invert(1);
     padding: 0.5rem;
     line-height: unset;
     min-height: unset;
