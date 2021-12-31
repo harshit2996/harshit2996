@@ -25,7 +25,7 @@
     line-height: unset;
     min-height: unset;
     align-content: center;
-    background-color: darkgrey;" alt="Harshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    background-color: white;" alt="Harshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://angel.co/u/harshit_singh">
     <img style="max-width: 100%;
@@ -34,7 +34,7 @@
     line-height: unset;
     min-height: unset;
     align-content: center;
-    background-color: darkgrey;" alt="Harshit's AngelList Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />
+    background-color: white;" alt="Harshit's AngelList Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />
   </a>
   <a href="https://harshit-singh.gitlab.io">
     <img style="max-width: 100%;
@@ -43,7 +43,7 @@
     line-height: unset;
     min-height: unset;
     align-content: center;
-    background-color: darkgrey;" alt="Portfolio Website" width="22px" src="https://img.icons8.com/android/100/000000/link.png"/>
+    background-color: white;" alt="Portfolio Website" width="22px" src="https://img.icons8.com/android/100/000000/link.png"/>
   </a>
 </div>
 
