@@ -39,7 +39,7 @@
     fill:red;
     height:56px;
     contain;
-    background-color: white !important;" alt="AngelList Profile" width="56px" src="https://cdn.worldvectorlogo.com/logos/angellist.svg" />
+    background-color: white !important;" alt="AngelList Profile" width="56px" src="https://toppng.com/uploads/preview/angellist-peace-logo-11609355102jrxmd6krso.png" />
   </a>
   <a href="https://harshit-singh.gitlab.io">
     <img style="max-width: 100%;
@@ -49,7 +49,7 @@
     min-height: unset;
     stroke:blue;
     align-content: center;
-    background-color: white !important;" alt="Portfolio Website" width="56px" src="https://pic.onlinewebfonts.com/svg/img_251891.png"/>
+    background-color: white !important;" alt="Portfolio Website" width="56px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png"/>
   </a>
 </div>
 
